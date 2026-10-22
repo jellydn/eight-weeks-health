@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Eight Weeks Health Tracker",
+  "short_name": "8 Weeks",
+  "description": "Your offline 56-day health and workout checklist",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1b17",
+  "theme_color": "#112b24",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
